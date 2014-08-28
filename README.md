@@ -16,7 +16,6 @@
 
 - [luofei614](http://weibo.com/u/1631767865) ：罗飞，ThinkPHP核心代码贡献者，人才拍卖网站[JobDeer.com](http://www.jobdeer.com) CTO，他的微博经常有好人才推荐。
 
-- [Easy](http://weibo.com/u/1088413295)： 自荐一下，[LazyPHP](https://github.com/easychen/LazyPHP)、[TeamToy](https://github.com/easychen/TeamToy)作者，微博主要分享新发现的开源项目和LAMP开发小技巧。
 
 
 
@@ -38,5 +37,7 @@
 - [SinaAppEngine](http://weibo.com/saet): 每日开发技巧分享，还有一个神奇的功能，就是如果你不确定SAE是否出问题了，可以冲到它的最新微博下看评论。
 
 
+## 最后自荐一下
 
+- [Easy](http://weibo.com/u/1088413295)： [LazyPHP](https://github.com/easychen/LazyPHP)、[TeamToy](https://github.com/easychen/TeamToy)作者，微博主要分享新发现的开源项目和LAMP开发小技巧。
 
