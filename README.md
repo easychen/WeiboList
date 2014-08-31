@@ -32,6 +32,7 @@
 ## 专业号
 
 - [github精选](http://weibo.com/u/3301384190): github上的新东西。
+- [发现GitHub](http://weibo.com/u/5217213149): 更纯粹的github分享号。
 - [HackerNewsDaily](http://weibo.com/hackernewsdaily): 想不起来上HN，就关注这个号，偶尔能撞上好东西。
 - [Bootstrap中文网](http://weibo.com/bootcss): BS的中文镜像、更新和各种组件。 
 - [SinaAppEngine](http://weibo.com/saet): 每日开发技巧分享，还有一个神奇的功能，就是如果你不确定SAE是否出问题了，可以冲到它的最新微博下看评论。
